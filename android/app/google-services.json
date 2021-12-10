@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827236806769",
+    "project_id": "stripesubscirptionapp",
+    "storage_bucket": "stripesubscirptionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827236806769:android:587b7ec4bbd25be84f6bd0",
+        "android_client_info": {
+          "package_name": "com.example.stripe_subscription_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827236806769-pe3at8bl168iemg1d2uu14jlre6hspgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MPp3s_UK8xC642dQwuHTgUa2zdfMMpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827236806769-pe3at8bl168iemg1d2uu14jlre6hspgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
